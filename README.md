@@ -43,6 +43,7 @@ información referente a cada tabla con los datos del CSV.
 |Modelo_Proyecto_Integrador.mwb|En este fichero está almacenado el modelo conceptual de la Base de Datos al que llegamos siguiendo los conceptos de normalización.|
 |Normalización Proyecto Final C3.xlsx|En este Excel se encuentran todas las tablas que se obtuvo con la normalización.|
 |INSERTS MOVIEDATASET.sql|En esté scrip se encuentran todos los inserts correspondiente al CSV|
+|ProyectoFinalScala|Se incluye un proyecto en Scala que crea las tablas e inserta los datos a la Base de Datos.|
 
 ##### Nota para el archivo Proceso_carga_de_datos.sql: 
 Si lee detenidamente el archivo Proceso_carga_de_datos.sql vera que existen unas clausulas UPDATE comentadas, estas
