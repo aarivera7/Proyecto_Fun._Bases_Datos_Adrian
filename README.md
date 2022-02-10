@@ -1,9 +1,9 @@
+## Universidad Técnica Particular de Loja
 ![image](https://user-images.githubusercontent.com/56032735/120117919-4f322780-c155-11eb-86b1-415562139384.png)
-# Proyecto_Fun._Bases_Datos_Adrian
+# Proyecto Integrador 2022
 Presentación del proyecto final de Fundamentos de Bases de Datos.
 
 ## Datos del Proyecto
-### Universidad Técnica Particular de Loja
 #### Ingeniería en Ciencias de la Computación
 #### Proyecto Final - Ciclo de vida de bases de datos relacionales normalizada
 
@@ -35,12 +35,14 @@ información referente a cada tabla con los datos del CSV.
 ## Descripción de los archivos cargados al repositorio:
 
 |Nombre del archivo|Descripción|
-|------------------------------------------------------------------------|-----------|
-|Informe de Proyecto Integrador Fundamentos de Bases de Datos S14 B2.docx|En este archivo se encuentra el informe con todo el proceso de normalización aplicado de la tabla universar propuesta para sacar una Base de Datos persistente.|
+|------------------------------------------------------------------------|----------------------------------------|
+|Informe de Proyecto Integrador Fundamentos de Bases de Datos S14 B2.docx|En este documento se encuentra el informe con todo el proceso de normalización aplicado de la tabla universar propuesta para sacar una Base de Datos persistente.|
 |Proyecto integrador Fundamentos de Bases de Datos S16 B2.pptx |En este archivo se encuentra las diapositivas utilizadas en la presentación del proyecto ante el profesor de la materia.|
 |Proceso_carga_de_datos.sql|En este archivo está el código completo para realizar la creación de las tablas luego de haberaplicado el proceso de normaliación, también está la inserción, limpieza y correción de datos. En el script practicamente está listo para ejecutar y ensamblar la base de datos, partiendo enque ya se cargo la tabla universal que contiene los datos del CSV|
 |DDL_proyecto.sql|En este archivo va a encontrar todos los CREATEs de las tablas y también está documentado el procesode normalización que se utilizo para llegar a ellas.|
 |Modelo_Proyecto_Integrador.mwb|En este fichero está almacenado el modelo conceptual de la Base de Datos al que llegamos siguiendo los conceptos de normalización.|
+|Normalización Proyecto Final C3.xlsx|En este Excel se encuentran todas las tablas que se obtuvo con la normalización.|
+|INSERTS MOVIEDATASET.sql|En esté scrip se encuentran todos los inserts correspondiente al CSV|
 
 ##### Nota para el archivo Proceso_carga_de_datos.sql: 
 Si lee detenidamente el archivo Proceso_carga_de_datos.sql vera que existen unas clausulas UPDATE comentadas, estas
